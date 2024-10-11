@@ -18,7 +18,7 @@ function Cabins() {
           alt="img"
         />
       </Row>
-      <h1>this s my time isewinopwsdjomweomwo</h1>
+    
     </>
   );
 }
